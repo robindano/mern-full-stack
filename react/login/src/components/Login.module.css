@@ -1,0 +1,8 @@
+.input{
+    background-color: gray;
+    
+}
+.container{
+    display: flex;
+    width: 300px;
+}
